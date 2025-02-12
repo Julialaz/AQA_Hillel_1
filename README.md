@@ -1,2 +1,2 @@
 # AQA_Hillel_1
-First test repository created on Hillel AQA course. Test.
+First test repository created on Hillel AQA course.
